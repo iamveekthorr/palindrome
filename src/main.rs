@@ -1,5 +1,5 @@
 fn main() {
-    let res = is_palindrome("civic");
+    let res = is_palindrome("race a car");
     println!("{res}")
 }
 
